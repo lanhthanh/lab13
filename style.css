@@ -1,0 +1,22 @@
+.carousel-inner{
+    height: 400px;
+    background-color: rgb(71, 70, 68);
+}
+.bg-img1 {
+    height: 400px;
+    background-color: #000;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/15588318/pexels-photo-15588318.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load");
+}
+.bg-img2 {
+    height: 400px;
+    background-color: #000;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/15588318/pexels-photo-15588318.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load");
+}
+.bg-img3 {
+    height: 400px;
+    background-color: #000;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/15588318/pexels-photo-15588318.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load");
+}
